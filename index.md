@@ -4,11 +4,11 @@
 
 ### School Projects 
 
-[Capstone 1 - Time Management App](/sample_page)
+[Capstone 1 - Time Management App](https://github.com/bdadams03/cs5490_capstone1_time_management_app)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Real Time Systems - Semester Project](/pdf/sample_presentation.pdf)
+[Real Time Systems - Semester Project](https://github.com/bdadams03/Real-Time-Systems-Final-Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
