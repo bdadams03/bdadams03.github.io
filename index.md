@@ -15,9 +15,9 @@
 [Capstone 2 - Hydra Vision (documentation wip)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+<!-- ---
 
-<!-- ### Category Name 2
+### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
